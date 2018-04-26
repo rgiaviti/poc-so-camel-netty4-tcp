@@ -1,5 +1,4 @@
 # QUESTION / PROBLEM
-=====================================
 
 ## How to send a response back over a established TCP connection in async mode using Apache Camel Netty4?
 
