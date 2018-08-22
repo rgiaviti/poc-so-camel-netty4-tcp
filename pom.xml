@@ -31,19 +31,13 @@
 			<version>24.1-jre</version>
 		</dependency>
 
-		<!-- https://mvnrepository.com/artifact/org.apache.camel/camel-spring-boot-starter -->
+		<!-- https://mvnrepository.com/artifact/io.vertx/vertx-core -->
 		<dependency>
-			<groupId>org.apache.camel</groupId>
-			<artifactId>camel-spring-boot-starter</artifactId>
-			<version>2.22.0</version>
+			<groupId>io.vertx</groupId>
+			<artifactId>vertx-core</artifactId>
+			<version>3.5.3</version>
 		</dependency>
 
-		<!-- https://mvnrepository.com/artifact/org.apache.camel/camel-netty4 -->
-		<dependency>
-			<groupId>org.apache.camel</groupId>
-			<artifactId>camel-netty4</artifactId>
-			<version>2.22.0</version>
-		</dependency>
 	</dependencies>
 
 	<build>
