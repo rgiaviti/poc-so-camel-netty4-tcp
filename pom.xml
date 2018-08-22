@@ -11,7 +11,7 @@
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
-		<version>1.5.12.RELEASE</version>
+		<version>2.0.4.RELEASE</version>
 	</parent>
 
 	<properties>
@@ -35,14 +35,14 @@
 		<dependency>
 			<groupId>org.apache.camel</groupId>
 			<artifactId>camel-spring-boot-starter</artifactId>
-			<version>2.21.0</version>
+			<version>2.22.0</version>
 		</dependency>
 
 		<!-- https://mvnrepository.com/artifact/org.apache.camel/camel-netty4 -->
 		<dependency>
 			<groupId>org.apache.camel</groupId>
 			<artifactId>camel-netty4</artifactId>
-			<version>2.21.0</version>
+			<version>2.22.0</version>
 		</dependency>
 	</dependencies>
 
